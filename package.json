@@ -1,0 +1,19 @@
+{
+  "name": "avalanche-proxy",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Reverse Proxy for avalanche/geth nodes",
+  "files": ["."],
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sambacha/avalanche-proxy.git"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sambacha/avalanche-proxy/issues"
+  },
+  "homepage": "https://github.com/sambacha/avalanche-proxy#readme"
+}
