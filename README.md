@@ -1,8 +1,7 @@
-# geth-proxy
+# avalanche-proxy
 
-Reverse Proxy for geth node
+Reverse Proxy for avalanche/geth nodes
 
-> gcr.io/moonrhythm-containers/geth-proxy
 
 ![Overview](images/overview.png)
 
@@ -33,7 +32,7 @@ Reverse Proxy for geth node
 ```shell
 #!/bin/bash
 NAME=geth-proxy
-IMAGE=gcr.io/moonrhythm-containers/geth-proxy
+IMAGEmanifoldfinance/avalanche-proxy
 TAG=latest
 ARGS="-geth.healthy-duration=15s"
 

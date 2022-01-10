@@ -5,6 +5,7 @@ go 1.17
 require (
 	github.com/ethereum/go-ethereum v1.10.7
 	github.com/moonrhythm/parapet v0.10.0
+	github.com/prometheus/client_golang v1.8.0
 )
 
 require (
@@ -19,7 +20,6 @@ require (
 	github.com/gorilla/websocket v1.4.2 // indirect
 	github.com/kavu/go_reuseport v1.5.0 // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.1 // indirect
-	github.com/prometheus/client_golang v1.8.0 // indirect
 	github.com/prometheus/client_model v0.2.0 // indirect
 	github.com/prometheus/common v0.15.0 // indirect
 	github.com/prometheus/procfs v0.2.0 // indirect
